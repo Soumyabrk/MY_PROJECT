@@ -1,0 +1,188 @@
+POWER BI
+
+1. DEFINITION
+Power BI is a Business Intelligence and data visualization platform developed by Microsoft. It is used to connect, transform, analyze, visualize, and share data.
+
+2. MAIN POWER BI COMPONENTS
+
+- Power BI Desktop
+- Power BI Service
+- Power BI Mobile
+- Power BI Report Server
+
+3. POWER BI DESKTOP
+
+Power BI Desktop is used to:
+- Connect to data
+- Transform data
+- Create data models
+- Create reports
+- Create visualizations
+- Write DAX calculations
+
+4. POWER BI SERVICE
+
+Power BI Service is the cloud-based platform used to:
+- Publish reports
+- Share dashboards
+- Collaborate
+- Create workspaces
+- Schedule data refreshes
+
+5. DATA SOURCES
+
+Power BI can connect to:
+- Excel
+- CSV
+- SQL Server
+- MySQL
+- Oracle
+- Web
+- APIs
+- SharePoint
+- Azure
+- Other databases
+
+6. POWER QUERY
+
+Power Query is used for Extract, Transform, and Load (ETL).
+
+Common operations:
+- Remove columns
+- Rename columns
+- Change data types
+- Remove duplicates
+- Filter rows
+- Split columns
+- Merge queries
+- Append queries
+- Replace values
+
+7. DATA MODELING
+
+Data modeling is the process of organizing tables and relationships for analysis.
+
+Important concepts:
+- Tables
+- Relationships
+- Primary keys
+- Foreign keys
+- Fact tables
+- Dimension tables
+
+8. STAR SCHEMA
+
+A star schema contains:
+- One central fact table
+- Multiple dimension tables
+
+Fact Table:
+Contains measurable business events.
+
+Dimension Table:
+Contains descriptive information used to analyze facts.
+
+9. DAX
+
+DAX stands for Data Analysis Expressions.
+
+It is used to create:
+- Measures
+- Calculated columns
+- Calculated tables
+
+Common DAX functions:
+- SUM()
+- AVERAGE()
+- COUNT()
+- DISTINCTCOUNT()
+- CALCULATE()
+- FILTER()
+- IF()
+- SWITCH()
+- DIVIDE()
+- RELATED()
+
+10. VISUALIZATIONS
+
+Common Power BI visuals:
+- Bar Chart
+- Column Chart
+- Line Chart
+- Pie Chart
+- Donut Chart
+- Area Chart
+- Scatter Chart
+- Table
+- Matrix
+- Card
+- KPI
+- Map
+- Slicer
+
+11. SLICER
+
+A slicer is a visual filter that allows users to interactively filter report data.
+
+12. DASHBOARD
+
+A dashboard is a single-page collection of visualizations used to monitor important information and KPIs.
+
+13. REPORT
+
+A report can contain multiple pages with interactive visualizations.
+
+14. KPI
+
+KPI stands for Key Performance Indicator.
+
+Examples:
+- Total Sales
+- Profit
+- Revenue Growth
+- Customer Count
+
+15. FILTERS
+
+Types of filters include:
+- Visual-level filter
+- Page-level filter
+- Report-level filter
+- Drillthrough filter
+
+16. DRILL-DOWN
+
+Drill-down allows users to move from a higher level of detail to a lower level.
+
+Example:
+Year → Quarter → Month → Day
+
+17. DRILLTHROUGH
+
+Drillthrough allows users to move to another report page containing detailed information about a selected item.
+
+18. DATA REFRESH
+
+Data refresh updates a Power BI report with the latest data from its source.
+
+19. POWER BI WORKFLOW
+
+1. Connect to data
+2. Transform data using Power Query
+3. Build the data model
+4. Create DAX calculations
+5. Create visualizations
+6. Format the report
+7. Publish to Power BI Service
+8. Share the report
+
+20. POWER BI USES
+
+- Business reporting
+- Sales analysis
+- Financial analysis
+- Customer analysis
+- HR analytics
+- Marketing analytics
+- Data visualization
+- Business intelligence

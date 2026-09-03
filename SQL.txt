@@ -1,0 +1,226 @@
+SQL
+
+1. DEFINITION
+SQL (Structured Query Language) is a standard language used to create, manage, manipulate, and retrieve data from relational databases.
+
+2. WHAT IS A DATABASE?
+A database is an organized collection of data that can be stored, managed, and retrieved efficiently.
+
+3. WHAT IS A TABLE?
+A table stores data in rows and columns.
+
+Row:
+A single record in a table.
+
+Column:
+A field or attribute that describes a type of data.
+
+4. TYPES OF SQL COMMANDS
+
+A. DDL - DATA DEFINITION LANGUAGE
+Used to define and modify database structures.
+
+Commands:
+- CREATE
+- ALTER
+- DROP
+- TRUNCATE
+- RENAME
+
+B. DML - DATA MANIPULATION LANGUAGE
+Used to modify data.
+
+Commands:
+- INSERT
+- UPDATE
+- DELETE
+
+C. DQL - DATA QUERY LANGUAGE
+Used to retrieve data.
+
+Command:
+- SELECT
+
+D. DCL - DATA CONTROL LANGUAGE
+Used to control database access.
+
+Commands:
+- GRANT
+- REVOKE
+
+E. TCL - TRANSACTION CONTROL LANGUAGE
+Used to manage transactions.
+
+Commands:
+- COMMIT
+- ROLLBACK
+- SAVEPOINT
+
+5. COMMON SQL COMMANDS
+
+CREATE TABLE:
+Creates a new table.
+
+INSERT:
+Adds new records.
+
+SELECT:
+Retrieves data.
+
+UPDATE:
+Changes existing data.
+
+DELETE:
+Removes records.
+
+ALTER:
+Changes table structure.
+
+DROP:
+Deletes a database object.
+
+TRUNCATE:
+Removes all records from a table.
+
+6. SQL CLAUSES
+
+- WHERE
+- GROUP BY
+- HAVING
+- ORDER BY
+- LIMIT
+
+7. SQL OPERATORS
+
+Arithmetic:
++  -  *  /  %
+
+Comparison:
+=  !=  <>  >  <  >=  <=
+
+Logical:
+AND
+OR
+NOT
+
+Other:
+IN
+BETWEEN
+LIKE
+IS NULL
+IS NOT NULL
+
+8. SQL CONSTRAINTS
+
+Constraints are rules applied to table columns.
+
+- PRIMARY KEY
+- FOREIGN KEY
+- UNIQUE
+- NOT NULL
+- CHECK
+- DEFAULT
+
+9. KEYS
+
+Primary Key:
+Uniquely identifies each record in a table.
+
+Foreign Key:
+Connects one table to another.
+
+Candidate Key:
+A column or set of columns that can uniquely identify records.
+
+Composite Key:
+A key made using two or more columns.
+
+10. SQL JOINS
+
+INNER JOIN:
+Returns matching records from both tables.
+
+LEFT JOIN:
+Returns all records from the left table and matching records from the right table.
+
+RIGHT JOIN:
+Returns all records from the right table and matching records from the left table.
+
+FULL OUTER JOIN:
+Returns matching and non-matching records from both tables.
+
+CROSS JOIN:
+Returns every possible combination of rows.
+
+SELF JOIN:
+A table is joined with itself.
+
+11. SQL FUNCTIONS
+
+Aggregate Functions:
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+
+String Functions:
+- CONCAT()
+- UPPER()
+- LOWER()
+- LENGTH()
+- SUBSTRING()
+
+Mathematical Functions:
+- ABS()
+- ROUND()
+- CEIL()
+- FLOOR()
+- MOD()
+
+Date Functions:
+- CURDATE()
+- NOW()
+- YEAR()
+- MONTH()
+- DAY()
+
+12. NORMALIZATION
+
+Normalization is the process of organizing database tables to reduce data redundancy and improve data integrity.
+
+Common forms:
+- 1NF
+- 2NF
+- 3NF
+- BCNF
+
+13. DATABASE RELATIONSHIPS
+
+One-to-One:
+One record is related to one record.
+
+One-to-Many:
+One record is related to many records.
+
+Many-to-Many:
+Many records are related to many records.
+
+14. EXAMPLE
+
+SELECT department, AVG(salary)
+FROM employees
+GROUP BY department
+HAVING AVG(salary) > 50000
+ORDER BY AVG(salary) DESC;
+
+15. SQL USES
+
+- Data analysis
+- Data reporting
+- Database management
+- Business intelligence
+- Web applications
+- Banking systems
+- E-commerce
+- Data analytics

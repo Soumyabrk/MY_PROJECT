@@ -1,0 +1,126 @@
+MACHINE LEARNING
+
+1. DEFINITION
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data and make predictions or decisions without being explicitly programmed for every task.
+
+2. TYPES OF MACHINE LEARNING
+
+A. SUPERVISED LEARNING
+Supervised learning uses labeled data, where the input data has a known output.
+
+Main types:
+- Regression: Predicts a continuous numerical value.
+- Classification: Predicts a category or class.
+
+Examples:
+- Predicting house prices
+- Predicting whether an email is spam
+- Predicting student marks
+
+B. UNSUPERVISED LEARNING
+Unsupervised learning works with data that does not have labeled outputs. The model tries to find patterns or groups in the data.
+
+Main types:
+- Clustering
+- Association
+
+Examples:
+- Customer segmentation
+- Grouping similar products
+- Finding purchasing patterns
+
+C. REINFORCEMENT LEARNING
+Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment and receiving rewards or penalties.
+
+Examples:
+- Game-playing AI
+- Robotics
+- Self-driving systems
+
+3. COMMON MACHINE LEARNING ALGORITHMS
+
+Supervised Learning:
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+
+Unsupervised Learning:
+- K-Means Clustering
+- Hierarchical Clustering
+- Principal Component Analysis (PCA)
+
+4. MACHINE LEARNING WORKFLOW
+
+1. Collect Data
+2. Clean Data
+3. Explore Data
+4. Prepare Data
+5. Split Data into Training and Testing Sets
+6. Select a Model
+7. Train the Model
+8. Evaluate the Model
+9. Improve the Model
+10. Deploy the Model
+
+5. IMPORTANT TERMS
+
+Dataset:
+A collection of data used for analysis or machine learning.
+
+Feature:
+An input variable used by a machine learning model to make predictions.
+
+Label:
+The known output or target value in supervised learning.
+
+Training Data:
+Data used to train the machine learning model.
+
+Testing Data:
+Data used to check how well the trained model performs on unseen data.
+
+Model:
+A mathematical or computational system that learns patterns from data.
+
+Prediction:
+The output produced by a trained machine learning model.
+
+6. OVERFITTING
+Overfitting occurs when a model learns the training data too closely, including its noise, and performs poorly on new data.
+
+7. UNDERFITTING
+Underfitting occurs when a model is too simple to learn the important patterns in the data.
+
+8. MACHINE LEARNING APPLICATIONS
+
+- Recommendation systems
+- Fraud detection
+- Image recognition
+- Speech recognition
+- Medical diagnosis
+- Customer analysis
+- Spam detection
+- Price prediction
+- Chatbots
+
+9. MACHINE LEARNING VS TRADITIONAL PROGRAMMING
+
+Traditional Programming:
+Data + Rules → Output
+
+Machine Learning:
+Data + Output → Model/Rules
+
+10. AI VS ML
+
+Artificial Intelligence (AI):
+A broad field focused on creating systems that can perform tasks requiring human-like intelligence.
+
+Machine Learning (ML):
+A subset of AI that allows systems to learn patterns from data.
+
+Deep Learning:
+A subset of ML that uses artificial neural networks with multiple layers.

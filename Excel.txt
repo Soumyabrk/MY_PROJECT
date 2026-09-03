@@ -1,0 +1,208 @@
+EXCEL
+
+1. DEFINITION
+Microsoft Excel is a spreadsheet application used to store, organize, calculate, analyze, and visualize data.
+
+2. BASIC EXCEL TERMS
+
+Workbook:
+An Excel file containing one or more worksheets.
+
+Worksheet:
+A spreadsheet page containing rows and columns.
+
+Cell:
+The intersection of a row and a column.
+
+Row:
+A horizontal set of cells.
+
+Column:
+A vertical set of cells.
+
+Cell Reference:
+The address of a cell, such as A1.
+
+3. DATA TYPES
+
+- Text
+- Number
+- Date
+- Time
+- Boolean
+- Error
+
+4. COMMON EXCEL OPERATORS
+
+Arithmetic:
++  -  *  /  ^
+
+Comparison:
+=  >  <  >=  <=  <>
+
+5. COMMON FUNCTIONS
+
+Mathematical:
+- SUM()
+- AVERAGE()
+- MIN()
+- MAX()
+- ROUND()
+
+Counting:
+- COUNT()
+- COUNTA()
+- COUNTBLANK()
+- COUNTIF()
+- COUNTIFS()
+
+Conditional:
+- IF()
+- IFS()
+- AND()
+- OR()
+- NOT()
+
+Lookup:
+- XLOOKUP()
+- VLOOKUP()
+- HLOOKUP()
+- INDEX()
+- MATCH()
+
+Text:
+- LEFT()
+- RIGHT()
+- MID()
+- LEN()
+- TRIM()
+- UPPER()
+- LOWER()
+- CONCAT()
+
+Date:
+- TODAY()
+- NOW()
+- YEAR()
+- MONTH()
+- DAY()
+
+6. FORMULA VS FUNCTION
+
+Formula:
+A calculation created by the user.
+
+Example:
+=A1+B1
+
+Function:
+A predefined formula.
+
+Example:
+=SUM(A1:A10)
+
+7. CELL REFERENCES
+
+Relative Reference:
+A1
+
+Absolute Reference:
+$A$1
+
+Mixed Reference:
+$A1 or A$1
+
+8. SORTING
+
+Sorting arranges data in a specific order.
+
+Examples:
+- A to Z
+- Z to A
+- Smallest to largest
+- Largest to smallest
+
+9. FILTERING
+
+Filtering displays only the records that meet specific conditions.
+
+10. CONDITIONAL FORMATTING
+
+Conditional formatting automatically changes cell formatting based on rules.
+
+Examples:
+- Highlight values greater than 100
+- Highlight duplicates
+- Data bars
+- Color scales
+
+11. EXCEL TABLE
+
+An Excel Table organizes data and provides features such as:
+- Automatic filtering
+- Sorting
+- Structured references
+- Automatic expansion
+
+12. PIVOT TABLE
+
+A PivotTable is used to summarize and analyze large amounts of data quickly.
+
+13. CHARTS
+
+Common Excel charts:
+- Column Chart
+- Bar Chart
+- Line Chart
+- Pie Chart
+- Area Chart
+- Scatter Chart
+
+14. DATA VALIDATION
+
+Data Validation controls what users can enter into cells.
+
+Example:
+Creating a dropdown list.
+
+15. LOOKUP
+
+Lookup functions are used to find information from a table.
+
+Example:
+=XLOOKUP(A2,D:D,E:E)
+
+16. EXCEL ERRORS
+
+Common errors:
+- #DIV/0!
+- #N/A
+- #VALUE!
+- #REF!
+- #NAME?
+- #NUM!
+- #NULL!
+
+17. EXCEL FEATURES
+
+- Formulas
+- Functions
+- Charts
+- PivotTables
+- Conditional Formatting
+- Data Validation
+- Sorting
+- Filtering
+- Power Query
+- Power Pivot
+
+18. EXCEL USES
+
+- Data analysis
+- Financial calculations
+- Reporting
+- Budgeting
+- Data cleaning
+- Business analysis
+- Record keeping
+- Dashboard creation

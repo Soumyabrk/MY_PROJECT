@@ -1,0 +1,154 @@
+GITHUB
+
+1. DEFINITION
+GitHub is a cloud-based platform used to host, manage, share, and collaborate on software projects and Git repositories.
+
+2. WHAT IS GIT?
+Git is a distributed version control system used to track changes in files and manage different versions of a project.
+
+3. GIT VS GITHUB
+
+Git:
+A version control system that runs on your computer.
+
+GitHub:
+A cloud platform that hosts Git repositories and provides collaboration tools.
+
+4. REPOSITORY
+
+A repository (repo) is a storage location for a project and its files, along with their version history.
+
+5. LOCAL REPOSITORY
+
+A Git repository stored on your computer.
+
+6. REMOTE REPOSITORY
+
+A repository hosted on a service such as GitHub.
+
+7. COMMON GIT COMMANDS
+
+Initialize repository:
+git init
+
+Check status:
+git status
+
+Add files:
+git add .
+
+Commit changes:
+git commit -m "message"
+
+View commits:
+git log
+
+Connect remote:
+git remote add origin URL
+
+Push changes:
+git push
+
+Pull changes:
+git pull
+
+Clone repository:
+git clone URL
+
+Create branch:
+git branch branch-name
+
+Switch branch:
+git switch branch-name
+
+Merge branch:
+git merge branch-name
+
+8. GIT WORKFLOW
+
+Working Directory
+      ↓
+Staging Area
+      ↓
+Commit
+      ↓
+Remote Repository
+
+9. STAGING AREA
+
+The staging area contains changes selected for the next commit.
+
+10. COMMIT
+
+A commit is a saved snapshot of changes in a Git repository.
+
+11. BRANCH
+
+A branch is an independent line of development.
+
+The main branch is commonly called:
+- main
+
+12. MERGE
+
+Merge combines changes from one branch into another branch.
+
+13. CLONE
+
+Cloning creates a local copy of a remote repository.
+
+14. PUSH
+
+Push uploads local commits to a remote repository.
+
+15. PULL
+
+Pull downloads changes from a remote repository and integrates them into the local repository.
+
+16. PULL REQUEST
+
+A Pull Request (PR) is a request to merge changes from one branch into another.
+
+17. .GIT FOLDER
+
+The .git folder stores information required by Git to track the repository.
+
+18. README
+
+README files provide information about a project, such as:
+- Project description
+- Installation
+- Usage
+- Features
+- Instructions
+
+19. GITIGNORE
+
+A .gitignore file specifies files and folders that Git should not track.
+
+20. GITHUB FEATURES
+
+- Repository hosting
+- Version control
+- Branches
+- Pull requests
+- Issues
+- Collaboration
+- Code review
+- GitHub Actions
+- Project management
+
+21. BASIC WORKFLOW
+
+1. Create or clone a repository
+2. Create or edit files
+3. Check status
+4. Add changes
+5. Commit changes
+6. Push changes to GitHub
+
+Example:
+
+git add .
+git commit -m "Added notes"
+git push

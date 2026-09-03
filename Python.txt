@@ -1,0 +1,241 @@
+PYTHON
+
+1. DEFINITION
+Python is a high-level, interpreted, general-purpose programming language known for its simple and readable syntax.
+
+2. FEATURES OF PYTHON
+
+- Easy to learn
+- Easy to read
+- Open source
+- Cross-platform
+- Dynamically typed
+- Object-oriented
+- Large standard library
+- Large community
+- Supports multiple programming paradigms
+
+3. VARIABLES
+
+A variable is a name used to store a value.
+
+Example:
+name = "John"
+age = 21
+
+4. BASIC DATA TYPES
+
+- int
+- float
+- complex
+- str
+- bool
+- list
+- tuple
+- set
+- dict
+- NoneType
+
+5. COLLECTION DATA TYPES
+
+List:
+Ordered and mutable collection.
+
+Tuple:
+Ordered and immutable collection.
+
+Set:
+Unordered collection of unique values.
+
+Dictionary:
+Collection of key-value pairs.
+
+6. OPERATORS
+
+Arithmetic:
++  -  *  /  //  %  **
+
+Comparison:
+==  !=  >  <  >=  <=
+
+Logical:
+and
+or
+not
+
+Assignment:
+=
++=
+-=
+*=
+/=
+
+Membership:
+in
+not in
+
+Identity:
+is
+is not
+
+7. CONDITIONAL STATEMENTS
+
+if
+elif
+else
+
+Example:
+
+if age >= 18:
+    print("Adult")
+else:
+    print("Minor")
+
+8. LOOPS
+
+For Loop:
+Used to iterate over a sequence.
+
+While Loop:
+Repeats code while a condition is true.
+
+Loop control:
+- break
+- continue
+- pass
+
+9. FUNCTIONS
+
+A function is a reusable block of code designed to perform a specific task.
+
+Example:
+
+def add(a, b):
+    return a + b
+
+10. PARAMETERS AND ARGUMENTS
+
+Parameter:
+A variable defined in a function.
+
+Argument:
+A value passed to a function.
+
+11. LIST COMPREHENSION
+
+List comprehension provides a short way to create lists.
+
+Example:
+
+squares = [x*x for x in range(5)]
+
+12. STRING
+
+A string is a sequence of characters.
+
+Common methods:
+- upper()
+- lower()
+- strip()
+- replace()
+- split()
+- join()
+
+13. EXCEPTION HANDLING
+
+Python uses exception handling to manage runtime errors.
+
+Keywords:
+- try
+- except
+- else
+- finally
+- raise
+
+14. FILE HANDLING
+
+Common modes:
+- r = read
+- w = write
+- a = append
+- x = create
+
+15. OBJECT-ORIENTED PROGRAMMING
+
+Important concepts:
+- Class
+- Object
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Abstraction
+
+16. CLASS
+
+A class is a blueprint for creating objects.
+
+17. OBJECT
+
+An object is an instance of a class.
+
+18. MODULE
+
+A module is a Python file containing code that can be imported into another program.
+
+Example:
+import math
+
+19. PACKAGE
+
+A package is a collection of related Python modules.
+
+20. IMPORTANT PYTHON LIBRARIES
+
+Data Analysis:
+- NumPy
+- Pandas
+
+Data Visualization:
+- Matplotlib
+- Seaborn
+
+Machine Learning:
+- Scikit-learn
+
+Deep Learning:
+- TensorFlow
+- PyTorch
+
+Web Development:
+- Django
+- Flask
+
+21. PYTHON FOR DATA ANALYTICS
+
+Python is widely used for:
+- Data cleaning
+- Data analysis
+- Data visualization
+- Machine learning
+- Automation
+- Statistical analysis
+
+22. PYTHON ADVANTAGES
+
+- Simple syntax
+- Fast development
+- Large ecosystem
+- Strong community support
+- Useful in many fields
+
+23. PYTHON APPLICATIONS
+
+- Web development
+- Data analytics
+- Machine learning
+- Artificial intelligence
+- Automation
+- Game development
+- Scientific computing
+- Cybersecurity
+- Software development
