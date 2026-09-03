@@ -1,0 +1,3 @@
+VOLUME
+
+Volume refers to the enormous amount of data generated, collected, and stored from various sources such as social media, websites, sensors, applications, and transactions.

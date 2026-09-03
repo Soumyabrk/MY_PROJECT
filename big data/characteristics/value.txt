@@ -1,0 +1,3 @@
+VALUE
+
+Value refers to the useful information and benefits that can be obtained from Big Data. It helps organizations make better decisions, improve services, and discover new opportunities.

@@ -1,0 +1,3 @@
+VARIETY
+
+Variety refers to the different types and formats of data. Big Data can include structured, semi-structured, and unstructured data such as tables, text, images, audio, and video.

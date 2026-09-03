@@ -1,0 +1,3 @@
+VELOCITY
+
+Velocity refers to the speed at which data is generated, collected, processed, and analyzed. Examples include real-time transactions, social media updates, and sensor data.
