@@ -1,0 +1,5 @@
+- Power BI fundamentals
+- Power Query and data cleaning
+- Data modeling and relationships
+- DAX formulas and calculations
+- Interactive dashboards and projects
