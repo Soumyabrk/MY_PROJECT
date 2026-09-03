@@ -1,5 +1,0 @@
-- Machine learning fundamentals
-- Data preprocessing
-- Supervised and unsupervised learning
-- Model training and evaluation
-- Machine learning projects
