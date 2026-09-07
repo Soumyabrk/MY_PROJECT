@@ -1,0 +1,17 @@
+### 5. Exploratory Data Analysis (EDA)
+
+**Exploratory Data Analysis (EDA)** is the process of **examining and understanding the data** to find patterns, trends, relationships, and unusual values before performing further analysis.
+
+**Activities in EDA:**
+
+* Understand the data structure
+* Find patterns and trends
+* Identify outliers
+* Analyze relationships between variables
+* Use charts and statistical methods
+
+**Example:**
+In sales data, we can analyze **which product has the highest sales, which month has the lowest sales, and which region performs best**.
+
+**In short:**
+👉 **EDA = Explore the data to understand what the data is telling us.**

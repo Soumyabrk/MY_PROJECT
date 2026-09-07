@@ -1,0 +1,34 @@
+## Data Analytics Life Cycle
+
+The **Data Analytics Life Cycle** is a step-by-step process used to turn raw data into useful insights and support business decision-making.
+
+### 1. Requirement Gathering
+
+**Requirement Gathering** is the **first step** of the Data Analytics Life Cycle.
+
+In this step, we understand **what the business wants to know or solve** using data.
+
+### What we do in Requirement Gathering:
+
+* Understand the **business problem**
+* Identify the **goals and objectives**
+* Understand what **data is required**
+* Identify the **stakeholders/users**
+* Decide the expected **output or result**
+* Define the **scope** of the project
+
+### Example:
+
+Suppose a company wants to know:
+
+> **"Why are our sales decreasing?"**
+
+During requirement gathering, we may ask:
+
+* Which products have declining sales?
+* Which regions have lower sales?
+* Has the number of customers decreased?
+* What time period should we analyze?
+* Do we need sales, customer, product, and region data?
+
+**Output:** A clear understanding of the problem, objectives, required data, and expected results.

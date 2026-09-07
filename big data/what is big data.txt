@@ -1,3 +1,5 @@
 BIG DATA
 
-Big Data refers to extremely large, complex, and rapidly generated datasets that are difficult to store, process, and analyze using traditional data processing tools.
+Big Data refers to extremely large, complex, and rapidly generated datasets 
+that are difficult to store, process, and analyze using traditional 
+data processing tools.

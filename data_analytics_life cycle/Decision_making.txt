@@ -1,0 +1,17 @@
+### 6. Decision Making
+
+**Decision Making** is the process of **using the insights obtained from data analysis to make better business decisions**.
+
+**Activities:**
+
+* Interpret the analysis results
+* Identify the best solution
+* Make data-driven decisions
+* Take appropriate business actions
+* Monitor the results
+
+**Example:**
+If EDA shows that **sales are lowest in a particular region**, the company may decide to **increase marketing or offer discounts in that region**.
+
+**In short:**
+👉 **Decision Making = Use data insights to take the right action.**

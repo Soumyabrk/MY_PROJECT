@@ -1,0 +1,46 @@
+## Data Analytics Life Cycle
+
+### 2. Data Collection
+
+Data Collection is the process of **gathering the required data from different sources** for analysis.
+
+**Examples of sources:**
+
+* SQL databases
+* Excel/CSV files
+* APIs
+* Websites
+* Surveys
+
+**Example:** Collecting customer, product, sales, and order data for a sales analysis.
+
+### 3. Data Cleaning
+
+Data Cleaning is the process of **identifying and correcting errors in the collected data**.
+
+**Activities:**
+
+* Remove duplicate data
+* Handle missing values
+* Correct incorrect values
+* Remove irrelevant data
+* Fix inconsistent formats
+
+**Example:** `Bhopal`, `bhopal`, `BHOPAL` → **Bhopal**
+
+### 4. Data Transformation
+
+Data Transformation is the process of **converting cleaned data into a suitable format for analysis**.
+
+**Activities:**
+
+* Change data types
+* Create new columns
+* Combine or split columns
+* Calculate values
+* Aggregate data
+
+**Example:** Converting `07/09/2026` into a proper **Date** format.
+
+**In short:**
+**Collect Data → Clean Data → Transform Data → Analyze Data**
