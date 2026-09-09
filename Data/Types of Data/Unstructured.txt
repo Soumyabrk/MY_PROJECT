@@ -1,0 +1,17 @@
+### Unstructured Data
+
+**Definition:**
+Unstructured data is data that **does not have a fixed or predefined format or structure**.
+
+**Examples:**
+
+* Images 📷
+* Videos 🎥
+* Audio 🎵
+* Social media posts
+* Emails
+* PDF documents
+* Text documents
+
+**In simple words:**
+👉 **Unstructured data = Data without a fixed format or organization.**

@@ -1,0 +1,24 @@
+### Semi-Structured Data
+
+**Definition:**
+Semi-structured data is data that **does not follow a fixed table format but has some organization using tags, keys, or labels**.
+
+**Examples:**
+
+* JSON
+* XML
+* HTML
+* Emails
+
+**Example (JSON):**
+
+```json
+{
+  "name": "Rahul",
+  "age": 20,
+  "city": "Bhopal"
+}
+```
+
+**In simple words:**
+👉 **Semi-structured data = Data with some organization, but no fixed table structure.**
