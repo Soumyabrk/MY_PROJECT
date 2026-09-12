@@ -22,3 +22,4 @@ Semi-structured data is data that **does not follow a fixed table format but has
 
 **In simple words:**
 👉 **Semi-structured data = Data with some organization, but no fixed table structure.**
+ 
